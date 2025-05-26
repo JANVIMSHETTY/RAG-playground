@@ -1,0 +1,13 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment/config files
+.env
